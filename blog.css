@@ -1,0 +1,20 @@
+.spacebet{
+    width:20px;
+}
+.spaceheight{
+    height:40px;
+}
+.carrossel{
+    display:flex;
+    align-items:baseline;
+    justify-content: center;
+}
+.spacebet{
+    width:20px;
+}
+.spaceheight{
+    height:40px;
+}
+.d-block{
+    border-radius:10px;
+}

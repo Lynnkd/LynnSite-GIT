@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align:center;
+}
+h3{
+    text-align:center;
+}
+.product{
+    background-color: #df7878;
+    width:200px;
+    height:230px;
+    border-radius:10px;
+}
+.productrow{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+.spacebet{
+    width:20px;
+}
+.spaceheight{
+    height:40px;
+}
+.carrossel{
+    display:flex;
+    align-items:baseline;
+    justify-content: center;
+}
