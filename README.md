@@ -14,5 +14,5 @@ páginas e ver o que tem dentro delas.
 ## Como acessar
 <br>
 Você pode acessar o site pelo meu perfil no Git Hub acessando o repositório ou 
-clicando nesse link: 
+clicando nesse link: https://lynnkd.github.io/LynnSite-GIT/ 
 
